@@ -1,3 +1,6 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using TMPro;
 public class Spawner : MonoBehaviour
 {
     [SerializeField] GameObject coinPrefab;

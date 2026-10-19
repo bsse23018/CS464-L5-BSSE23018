@@ -1,3 +1,6 @@
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using TMPro;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] float moveForce = 10f;
